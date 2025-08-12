@@ -50,7 +50,7 @@ Aplikasi ini dibangun dengan:
 st.markdown(
     """
     <div style="display: flex; justify-content: center;">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fth.linkedin.com%2Fcompany%2Fmandiri-sekuritas%3Ftrk%3Dppro_cprof&psig=AOvVaw35biDrPshKFn9Kc3O9p-k5&ust=1755053130926000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLD-78aghI8DFQAAAAAdAAAAABAL" width="500">
+        <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/181/2024/05/25/WhatsApp-Image-2024-05-25-at-115231-AM-129691497.jpeg" width="500">
     </div>
     """,
     unsafe_allow_html=True
