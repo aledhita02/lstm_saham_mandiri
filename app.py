@@ -50,7 +50,7 @@ Aplikasi ini dibangun dengan:
 st.markdown(
     """
     <div style="display: flex; justify-content: center;">
-        <img src="https://www.idx.co.id/media/4437/bank-mandiri.jpg" width="500">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fth.linkedin.com%2Fcompany%2Fmandiri-sekuritas%3Ftrk%3Dppro_cprof&psig=AOvVaw35biDrPshKFn9Kc3O9p-k5&ust=1755053130926000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLD-78aghI8DFQAAAAAdAAAAABAL" width="500">
     </div>
     """,
     unsafe_allow_html=True
