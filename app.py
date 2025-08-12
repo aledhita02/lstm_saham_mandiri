@@ -55,7 +55,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.caption("Gedung PT Bank Mandiri Tbk")
 
 # Penutup
 st.write("""
