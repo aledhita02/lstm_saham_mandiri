@@ -23,7 +23,7 @@ Sebelum digunakan, data dinormalisasi dan dipersiapkan untuk model time-series.
 @st.cache
 def load_data():
     # Ganti dengan path file dataset Anda
-    data = pd.read_csv("dataset_mandiri_20tahun.csv")
+    data = pd.read_csv("dataset/dataset_mandiri_20tahun.csv")
 
     # Preprocess data: Remove commas and convert to float
     numeric_columns = ['Close']

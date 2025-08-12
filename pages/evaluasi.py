@@ -24,7 +24,7 @@ model_option = st.selectbox("Pilih Model untuk Evaluasi", ["LSTM", "GRU"])
 @st.cache
 def load_data():
     # Muat dataset
-    data = pd.read_csv("dataset_mandiri_20tahun.csv")
+    data = pd.read_csv("dataset/dataset_mandiri_20tahun.csv")
 
     # Preprocessing data
     # Hapus karakter non-numerik (seperti koma) dan konversi ke float
